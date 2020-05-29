@@ -1,19 +1,19 @@
-# _Application Name_
+# _Home Practice #1_
 
-#### _Brief description of application, 05.29.2020_
+#### _Practice at home for Code Review #1, 05.29.2020_
 
 #### By _**Jason Khan**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This is a website created to practice for the first code review at Epicodus_
 
 ## Setup/Installation Requirements
 
-* Clone this [repository](example)
+* Clone this [repository](https://github.com/jasonkhan99/home-practice1.git)
 * Locate index.html file in main directory.
 * Open index.html file in browser of choice (Chrome or Firefox prefered)
-* [Click here](gh page examp) if you simply want to see it in action.
+* [Click here](https://jasonkhan99.github.io/home-practice1/) if you simply want to see it in action.
 * Enjoy!
 
 ## Known Bugs

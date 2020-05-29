@@ -4,3 +4,27 @@ body {
   font-size: large;
   background-color: black;
 }
+
+.image1 {
+  float: left;
+  max-width: 15%;
+  height: auto;
+}
+
+.image2 {
+  float: right;
+  max-width: 15%;
+  height: auto;
+}
+
+.header {
+  text-align: center;
+}
+
+p {
+  padding-top: 30px;
+}
+
+.subhead {
+  color: red;
+}
